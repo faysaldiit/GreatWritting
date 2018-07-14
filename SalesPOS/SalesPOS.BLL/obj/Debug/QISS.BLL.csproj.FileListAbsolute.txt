@@ -1,0 +1,9 @@
+E:\QISS_proj\QISS.BLL\bin\Debug\QISS.BLL.dll
+E:\QISS_proj\QISS.BLL\bin\Debug\QISS.BLL.pdb
+E:\QISS_proj\QISS.BLL\bin\Debug\BOL.dll
+E:\QISS_proj\QISS.BLL\bin\Debug\QISS.DataAccessLayer.dll
+E:\QISS_proj\QISS.BLL\bin\Debug\BOL.pdb
+E:\QISS_proj\QISS.BLL\bin\Debug\QISS.DataAccessLayer.pdb
+E:\QISS_proj\QISS.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\QISS_proj\QISS.BLL\obj\Debug\QISS.BLL.dll
+E:\QISS_proj\QISS.BLL\obj\Debug\QISS.BLL.pdb

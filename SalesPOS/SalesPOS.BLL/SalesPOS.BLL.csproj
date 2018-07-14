@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E2C587A3-8C27-4632-BAB7-020D59B13A9B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SalesPOS.BLL</RootNamespace>
+    <AssemblyName>QISS.BLL</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bllAccountHolderInfo.cs" />
+    <Compile Include="bllAccountHolderType.cs" />
+    <Compile Include="bllAccountTransaction.cs" />
+    <Compile Include="bllAccountTransactions.cs" />
+    <Compile Include="bllAccountTransactionType.cs" />
+    <Compile Include="bllActivityInfo.cs" />
+    <Compile Include="bllBranchInfo.cs" />
+    <Compile Include="bllCommissionCalc.cs" />
+    <Compile Include="bllCompanyInfo.cs" />
+    <Compile Include="bllInvoiceList.cs" />
+    <Compile Include="bllManufacturerInfo.cs" />
+    <Compile Include="bllPayTypeInfo.cs" />
+    <Compile Include="bllProductInfo.cs" />
+    <Compile Include="bllProductPurchase.cs" />
+    <Compile Include="bllProductSales.cs" />
+    <Compile Include="bllProductTransferInfo.cs" />
+    <Compile Include="bllProductUnitPrice.cs" />
+    <Compile Include="bllPurchaseReturn.cs" />
+    <Compile Include="bllPurposeInfo.cs" />
+    <Compile Include="bllReports.cs" />
+    <Compile Include="bllReportUtility.cs" />
+    <Compile Include="bllSalesReturnInfo.cs" />
+    <Compile Include="bllScreenInfo.cs" />
+    <Compile Include="bllSectionInfo.cs" />
+    <Compile Include="bllSecurityInfo.cs" />
+    <Compile Include="bllStoreInfo.cs" />
+    <Compile Include="bllSubSectionInfo.cs" />
+    <Compile Include="bllSysconData.cs" />
+    <Compile Include="bllTerminalInfo.cs" />
+    <Compile Include="bllUnitInfo.cs" />
+    <Compile Include="bllUserInfo.cs" />
+    <Compile Include="bllUtility.cs" />
+    <Compile Include="bllVatInfo.cs" />
+    <Compile Include="bllZoneInfo.cs" />
+    <Compile Include="bllRequisition.cs" />
+    <Compile Include="bllProductOffer.cs" />
+    <Compile Include="bllMaterial.cs" />
+    <Compile Include="bllProductMaterial.cs" />
+    <Compile Include="bllMaterialPurchase.cs" />
+    <Compile Include="InputBox.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SalesPOS.BOL\SalesPOS.BOL.csproj">
+      <Project>{0762F72B-AE48-43AF-A48F-27ADDEFAB64D}</Project>
+      <Name>SalesPOS.BOL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesPOS.DataAccessLayer\SalesPOS.DataAccessLayer.csproj">
+      <Project>{6CA582F3-FB71-4D14-A8C9-F5D2C91A5174}</Project>
+      <Name>SalesPOS.DataAccessLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\SalesPOS.Report\SalesPOS.Report.csproj">
+      <Project>{48B183DC-7E4D-47E6-A146-C176463E4FFC}</Project>
+      <Name>SalesPOS.Report</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

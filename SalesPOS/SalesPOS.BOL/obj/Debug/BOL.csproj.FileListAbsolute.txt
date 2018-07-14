@@ -1,0 +1,5 @@
+E:\QISS_proj\BOL\bin\Debug\BOL.dll
+E:\QISS_proj\BOL\bin\Debug\BOL.pdb
+E:\QISS_proj\BOL\obj\Debug\ResolveAssemblyReference.cache
+E:\QISS_proj\BOL\obj\Debug\BOL.dll
+E:\QISS_proj\BOL\obj\Debug\BOL.pdb

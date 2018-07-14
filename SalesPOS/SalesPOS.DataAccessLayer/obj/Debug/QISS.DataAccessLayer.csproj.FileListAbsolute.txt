@@ -1,0 +1,5 @@
+E:\QISS_proj\QISS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.dll
+E:\QISS_proj\QISS.DataAccessLayer\bin\Debug\QISS.DataAccessLayer.pdb
+E:\QISS_proj\QISS.DataAccessLayer\obj\Debug\ResolveAssemblyReference.cache
+E:\QISS_proj\QISS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.dll
+E:\QISS_proj\QISS.DataAccessLayer\obj\Debug\QISS.DataAccessLayer.pdb

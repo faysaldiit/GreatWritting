@@ -1,0 +1,930 @@
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\27(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\28(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\29(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\30(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\31(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\32(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\33(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\34(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\35(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\37(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+\\203.100.101.28\R_admin\Copy of 38(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\Documents and Settings\FAROQUE\Desktop\030211\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+G:\Pernonal\EasySalesSystem\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+C:\RASEL DATA\Projects\SalesPOS\39(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\39(faysal)-1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\40(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\41(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\42(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\44(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\45(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\46(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\47(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\48(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\50(faysal)\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\52\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\rasu\project\53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales System Comilla\54\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\01\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Pharmacy Management\02\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Pharmacy Management\03\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\04\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\05\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\07\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\10\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\My  Resources\project\Pharmacy Management\15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\16\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\17\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Monojogot\Final1\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\Pharmacy Management\Final2\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final3\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final4\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final5\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final7\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final12\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final13\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final14\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final15\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final18\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final19\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final20\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+F:\SalesInventory\Final21\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final22\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final23\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final24\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final25\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final26\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final27\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final28\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final29\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final30\Final29 - Copy\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final31\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final32\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final33\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final35\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final36\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final37\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final38\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final39\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final40\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final42\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final43\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final44\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final45\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final46\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final48\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final49\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final51\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final53\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final55\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final56\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final57\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final58\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final59\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+D:\My Data\Work\project\desktop\SalesGreatWritting\Final63\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final66\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+E:\Desktop\Sales Great Writting\Final67\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
+H:\Final68\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.exe
+H:\Final68\SalesPOS\SalesPOS.Report\bin\Debug\SalesPOS.Report.pdb
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\ResolveAssemblyReference.cache
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmPrint.resources
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.frmRptv.resources
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.Properties.Resources.resources
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.csproj.GenerateResource.Cache
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.exe
+H:\Final68\SalesPOS\SalesPOS.Report\obj\Debug\SalesPOS.Report.pdb
